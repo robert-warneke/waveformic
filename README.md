@@ -1,5 +1,5 @@
 # Waveformic
-A simple and intuitive tool for visualizing audio waveforms.
+A simple and intuitive tool for visualizing audio waveforms, hosted at [waveformic.com](https://waveformic.com).
 
 ##### 📑 Table of Contents
 - [📋 Overview](#overview)
