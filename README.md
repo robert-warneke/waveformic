@@ -39,7 +39,7 @@ For any inquiries, please reach out via [hello@robertwarneke.com](mailto:hello@r
 
 ---
 
-Visit the site live at [waveformic.github.io](https://waveformic.github.io).
+Visit the site live at [waveformic.com](https://waveformic.com).
 
 ---
 
