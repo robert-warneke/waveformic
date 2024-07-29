@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #121212; /* Dark background color */
+    color: #E0E0E0; /* Light text color */
+}
+
+.container {
+    text-align: center;
+    background-color: #1E1E1E; /* Slightly lighter dark color for the container */
+    padding: 0px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Darker shadow for better contrast */
+    width: 85%;
+}
+
+#logo {
+    width: 200px;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin-bottom: 20px;
+    padding: 0;
+    margin: 0;
+    color: #E0E0E0; /* Ensure the header text is light for contrast */
+}
+
+#waveform-canvas {
+    width: 100%;
+    height: 200px;
+    background-color: #1E1E1E;
+    margin-top: 20px;
+    display: none; /* Hide by default */
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+.color-picker-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    display: none; /* Hide by default */
+}
+
+input[type="color"] {
+    margin: 0 5px;
+    padding: 5px;
+    background-color: #2D2D2D; /* Dark background for color input */
+    border: none;
+    border-radius: 5px;
+    color: #E0E0E0; /* Light text color */
+    cursor: pointer;
+}
+
+input[type="file"] {
+    margin: 10px 0;
+    padding: 5px;
+    background-color: #2D2D2D; /* Dark background for file input */
+    border: none;
+    border-radius: 5px;
+    color: #E0E0E0; /* Light text color */
+    cursor: pointer;
+}
+
+audio {
+    width: 97%; /* Increase width to take full container width */
+    margin-top: 20px; /* Ensure there's space above the audio controller */
+    margin-bottom: 20px;
+}
+
+audio[disabled] {
+    pointer-events: none;
+    opacity: 0.5;
+}
