@@ -1,0 +1,51 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Build files
+dist/
+build/
+out/
+output/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Development environment
+.env
+
+# IDE or editor specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.sass-cache/
+.cache/
+
+# Package manager lock files
+package-lock.json
+yarn.lock
+
+# Editor backup files
+*~
+*.swp
+
+# Mac-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
+
+# Folders
+.tests/
+.templates/
+.toolkit/
+
+# Bootstrap files
+*.bsdesign
