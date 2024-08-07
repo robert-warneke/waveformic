@@ -11,7 +11,7 @@ A simple and intuitive tool for visualizing audio waveforms, hosted at [waveform
 - [🔒 Security](#security)
 - [📜 License](#license)
 - [📬 Contact](#contact)
-- [🤝 Connect with Robert](#connect-with-robert)
+- [👤 About the Creator](#about-the-creator)
 
 ---
 
@@ -52,7 +52,9 @@ For any inquiries, please reach out via [contact@waveformic.com](mailto:contact@
 
 ---
 
-## 🤝 Connect with Robert <a id="connect-with-robert"></a>
+## 👤 About the Creator <a id="about-the-creator"></a>
+Hi, I'm Robert Warneke, the creator and lead developer of Waveformic. Feel free to connect with me through the links below or directly via [hello@robertwarneke.com](mailto:hello@robertwarneke.com).
+
 - [LinkedIn](https://www.linkedin.com/in/robert-warneke)
 - [GitHub](https://github.com/robert-warneke)
 - [Shutterstock](https://www.shutterstock.com/g/robertwarneke)
