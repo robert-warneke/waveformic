@@ -1,5 +1,5 @@
-![Waveformic logo](/assets/images/branding/[Waveformic]-logo.svg) 
-# Waveformic
+<img src="/assets/images/branding/[Waveformic]-logo.svg" alt="Waveformic logo" style="vertical-align: middle; margin-right: 10px;" /><h1 style="display: inline;">Waveformic</h1>
+
 A simple and intuitive tool for visualizing audio waveforms, hosted at [waveformic.com](https://waveformic.com).
 
 ##### 📑 Table of Contents
