@@ -50,6 +50,8 @@ If you discover any security vulnerabilities, please see our [Security Policy](S
 ## 📬 Contact <a id="contact"></a>
 For any inquiries, please reach out via [contact@waveformic.com](mailto:contact@waveformic.com).
 
+---
+
 ## 🤝 Connect with Me <a id="connect-with-me"></a>
 - [LinkedIn](https://www.linkedin.com/in/robert-warneke)
 - [GitHub](https://github.com/robert-warneke)
