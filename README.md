@@ -1,5 +1,4 @@
-![Waveformic logo](/assets/images/branding/[Waveformic]-logo.svg)
-
+![Waveformic logo](/assets/images/branding/[Waveformic]-logo.svg) 
 # Waveformic
 A simple and intuitive tool for visualizing audio waveforms, hosted at [waveformic.com](https://waveformic.com).
 
