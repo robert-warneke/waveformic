@@ -1,3 +1,5 @@
+![Waveformic logo](/assets/images/branding/[Waveformic]-logo.svg)
+
 # Waveformic
 A simple and intuitive tool for visualizing audio waveforms, hosted at [waveformic.com](https://waveformic.com).
 
@@ -24,7 +26,9 @@ Waveformic is a simple tool designed to visualize audio waveforms. It aims to pr
 
 ## 📷 Screenshots <a id="screenshots"></a>
 
-![Alt text](/assets/images/screenshots/[Waveformic]-waveformic.com-Screenshot-NoAudio.png)
+![waveformic.com screenshot - no audio](/assets/images/screenshots/[Waveformic]-waveformic.com-Screenshot-NoAudio.png)
+
+![waveformic.com screenshot - audio](/assets/images/screenshots/[Waveformic]-waveformic.com-Screenshot-Audio.png)
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
 - **Frontend**: HTML, CSS, JavaScript
