@@ -34,13 +34,19 @@ Waveformic is a simple tool designed to visualize audio waveforms. It aims to pr
 - **Frontend**: HTML, CSS, JavaScript
 - **Audio Processing**: Web Audio API
 
+## 🔧 Contributing <a id="contributing"></a>
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get started.
+
 ## 🐛 Issues and Feedback <a id="issues-and-feedback"></a>
-If you encounter any issues or have feedback, please feel free to [open an issue](https://github.com/robert-warneke/waveformic/issues) on this repository.
+If you encounter any issues or have feedback, please feel free to [open an issue](https://github.com/robert-warneke/waveformic/issues) on this repository or contact our support team at [support@waveformic.com](mailto:support@waveformic.com).
+
+## 🔒 Security <a id="security"></a>
+If you discover any security vulnerabilities, please see our [Security Policy](SECURITY.md) for more details on how to report them. You can also contact us directly at [security@waveformic.com](mailto:security@waveformic.com).
 
 ## 📜 License <a id="license"></a>
 
 ## 📬 Contact <a id="contact"></a>
-For any inquiries, please reach out via [hello@robertwarneke.com](mailto:hello@robertwarneke.com).
+For any inquiries, please reach out via [contact@waveformic.com](mailto:contact@waveformic.com).
 
 ## 🤝 Connect with Me <a id="connect-with-me"></a>
 - [LinkedIn](https://www.linkedin.com/in/robert-warneke)
