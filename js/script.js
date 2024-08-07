@@ -56,8 +56,11 @@ document.getElementById('audio-upload').addEventListener('change', function (eve
         const safeFileName = file.name.replace(/[^\w\-\.]/g, '_');
         console.log(`Uploading file: ${safeFileName}`);
 
+        // Load the audio file into the audio element
         audioElement.src = URL.createObjectURL(file);
         audioElement.load();
+
+        // Set up the audio context and analyser
         audioContext = new (window.AudioContext || window.webkitAudioContext)();
         analyser = audioContext.createAnalyser();
         let source = audioContext.createMediaElementSource(audioElement);
