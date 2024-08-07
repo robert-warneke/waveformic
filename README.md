@@ -24,9 +24,11 @@ Waveformic is a simple tool designed to visualize audio waveforms. It aims to pr
 
 ## 📷 Screenshots <a id="screenshots"></a>
 
-![waveformic.com screenshot - no audio](/assets/images/screenshots/[Waveformic]-waveformic.com-Screenshot-NoAudio.png)
+![Screenshot of Waveformic.com with no audio loaded](/assets/images/screenshots/[Waveformic]-waveformic.com-Screenshot-NoAudio.png)
+*Waveformic.com without an audio file loaded.*
 
-![waveformic.com screenshot - audio](/assets/images/screenshots/[Waveformic]-waveformic.com-Screenshot-Audio.png)
+![Screenshot of Waveformic with an audio file loaded](/assets/images/screenshots/[Waveformic]-waveformic.com-Screenshot-Audio.png)
+*Waveformic.com with an audio file loaded and visualized.*
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
 - **Frontend**: HTML, CSS, JavaScript
