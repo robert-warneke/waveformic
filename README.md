@@ -4,6 +4,7 @@ A simple and intuitive tool for visualizing audio waveforms, hosted at [waveform
 ##### 📑 Table of Contents
 - [📋 Overview](#overview)
 - [✨ Features](#features)
+- [📷 Screenshots](#screenshots)
 - [🛠️ Technologies Used](#technologies-used)
 - [🐛 Issues and Feedback](#issues-and-feedback)
 - [📜 License](#license)
@@ -20,6 +21,10 @@ Waveformic is a simple tool designed to visualize audio waveforms. It aims to pr
 - **Basic Controls**: Play, pause, and adjust volume of audio playback.
 - **Wave Color Customization**: Choose your preferred color for the waveform.
 - **Simple Interface**: User-friendly design for easy interaction.
+
+## 📷 Screenshots <a id="screenshots"></a>
+
+![Alt text](/assets/images/screenshots/[Waveformic]-waveformic.com-Screenshot-NoAudio.png)
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
 - **Frontend**: HTML, CSS, JavaScript
