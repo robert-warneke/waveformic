@@ -55,6 +55,7 @@ For any inquiries, please reach out via [contact@waveformic.com](mailto:contact@
 ## 👤 About the Creator <a id="about-the-creator"></a>
 Hi, I'm Robert Warneke, the creator and lead developer of Waveformic. Feel free to connect with me through the links below or directly via [hello@robertwarneke.com](mailto:hello@robertwarneke.com).
 
+- [robertwarneke.com](https://robertwarneke.com)
 - [LinkedIn](https://www.linkedin.com/in/robert-warneke)
 - [GitHub](https://github.com/robert-warneke)
 - [Shutterstock](https://www.shutterstock.com/g/robertwarneke)
