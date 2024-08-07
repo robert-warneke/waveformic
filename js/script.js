@@ -45,6 +45,17 @@ function draw() {
 document.getElementById('audio-upload').addEventListener('change', function (event) {
     const file = event.target.files[0];
     if (file) {
+        // Validate file type to ensure it's an audio file
+        const validFileTypes = ['audio/mpeg', 'audio/wav', 'audio/ogg'];
+        if (!validFileTypes.includes(file.type)) {
+            alert('Invalid file type. Please upload an audio file.');
+            return;
+        }
+
+        // Ensure the filename is safe
+        const safeFileName = file.name.replace(/[^\w\-\.]/g, '_');
+        console.log(`Uploading file: ${safeFileName}`);
+
         audioElement.src = URL.createObjectURL(file);
         audioElement.load();
         audioContext = new (window.AudioContext || window.webkitAudioContext)();
@@ -60,7 +71,7 @@ document.getElementById('audio-upload').addEventListener('change', function (eve
         // Show the waveform and color picker controls
         canvas.style.display = 'block';
         document.querySelector('.color-picker-row').style.display = 'flex';
-        
+
         // Enable the audio controls
         audioElement.removeAttribute('disabled');
         audioElement.controls = true;
